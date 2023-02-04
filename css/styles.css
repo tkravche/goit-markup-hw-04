@@ -450,7 +450,7 @@ section.team {
 
   color: var(--background-color);
 }
-socials.link-icon {
+.socials .link-icon {
   display: flex;
   justify-content: center;
   align-items: center;
