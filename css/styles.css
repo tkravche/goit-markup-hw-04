@@ -298,7 +298,7 @@ section.team {
   height: 44px;
   border-radius: 50%;
 }
-.link-icon:not(:last-child) {
+.socials-item:not(:last-child) {
   margin-right: 10px;
 }
 .team-icon {
@@ -323,7 +323,7 @@ section.team {
   border: 1px solid var(--icon-color);
   border-radius: 4px;
 }
-.link-client:not(:last-child) {
+.client-item:not(:last-child) {
   margin-right: 30px;
 }
 .client-icon {
@@ -450,7 +450,7 @@ section.team {
 
   color: var(--background-color);
 }
-.link-icon {
+socials.link-icon {
   display: flex;
   justify-content: center;
   align-items: center;
